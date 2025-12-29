@@ -1,0 +1,19 @@
+{
+  "host": "127.0.0.1",
+  "port": 4003,
+  "transport": "sse",
+  "model_dir": "./saved_model",
+  "data_dir": "./Dataset",
+  "log_dir": "./logs",
+  "default_params": {
+    "max_epoch": 100,
+    "batch_size": 1024,
+    "lr": 0.001,
+    "window_size": 20,
+    "train_size_s": 100000,
+    "train_size_t": 1000,
+    "random_seed": 42,
+    "device": "auto"
+  }
+}
+

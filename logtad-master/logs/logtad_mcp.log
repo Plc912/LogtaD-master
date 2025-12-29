@@ -1,0 +1,16 @@
+2025-12-29 13:25:34 - LogTAD_MCP - INFO - 配置文件加载成功: mcp_config.json
+2025-12-29 13:25:36 - LogTAD_MCP - INFO - fastmcp 工具注册成功
+2025-12-29 13:25:36 - LogTAD_MCP - INFO - 使用 fastmcp 启动服务器
+2025-12-29 13:28:30 - LogTAD_MCP - INFO - 开始解析日志文件: OpenSSH_2k.log_structured.csv, 数据集: BGL
+2025-12-29 13:37:41 - LogTAD_MCP - INFO - 配置文件加载成功: mcp_config.json
+2025-12-29 13:37:43 - LogTAD_MCP - INFO - fastmcp 工具注册成功
+2025-12-29 13:37:43 - LogTAD_MCP - INFO - 使用 fastmcp 启动服务器
+2025-12-29 13:38:21 - LogTAD_MCP - ERROR - 文件不存在: BGL
+2025-12-29 13:38:21 - LogTAD_MCP - ERROR - get_model_info - FileNotFoundError: 模型文件不存在: BGL
+2025-12-29 13:38:25 - LogTAD_MCP - INFO - 开始下载数据集: BGL
+2025-12-29 15:05:08 - LogTAD_MCP - ERROR - download_dataset - error: bad escape \s at position 2
+2025-12-29 15:05:43 - LogTAD_MCP - ERROR - 文件不存在: models/BGL_model.pth
+2025-12-29 15:05:43 - LogTAD_MCP - ERROR - detect_anomaly - FileNotFoundError: 模型文件不存在: models/BGL_model.pth
+2025-12-29 15:05:49 - LogTAD_MCP - ERROR - 文件不存在: models/BGL_to_Thunderbird_model.pth
+2025-12-29 15:05:49 - LogTAD_MCP - ERROR - evaluate_model - FileNotFoundError: 模型文件不存在: models/BGL_to_Thunderbird_model.pth
+2025-12-29 15:06:36 - LogTAD_MCP - INFO - 开始解析日志文件: BGL_2k.log_structured.csv, 数据集: BGL
